@@ -10,5 +10,11 @@ Some stuff which will app is not capable to handle at the mommet:
 1)Error handling for inexistent database or collection.
 
 
+Steps to install :
+1)Clone the repo https://github.com/mohit-tevathiya/node-mongo-connection.git
+2)cd mongodb-to-node-conection
+3)Run npm install to install all the dependencies
+4)Run nodemon index.js
+
 
 Please feel to open PR
